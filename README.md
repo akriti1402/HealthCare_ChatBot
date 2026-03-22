@@ -39,10 +39,5 @@ pip install -r requirements.txt
 #### First opening window
 ![first window](https://github.com/Durgesh63/HealthCare_ChatBot/blob/master/firstwindow.png?raw=true)
 
-#### Main Opening Window
-![Main Window](https://github.com/Durgesh63/HealthCare_ChatBot/blob/master/main_window.png?raw=true)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
